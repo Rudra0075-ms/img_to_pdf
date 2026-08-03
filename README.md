@@ -8,16 +8,4 @@ A simple Python project that converts JPG, JPEG, and PNG images into a single PD
 - Supports JPG, JPEG, and PNG formats
 - Automatically detects images in the folder
 - Saves the output as `output.pdf`
-
-  
-Install the required library:
-
-```bash
-pip install fpdf
-```
-
-## How to Run
-
-```bash
-python img_to_pdf.py
-```
+- `fpdf` library is used
